@@ -11,6 +11,7 @@ On this scenario I'm demostrating my knowledge about classes, constructors, priv
 # Development Environment
 
 IDE: Visual Studio Code
+
 Programming Language/s: Python
 
 # Useful Websites
